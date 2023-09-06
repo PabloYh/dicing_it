@@ -1,4 +1,4 @@
-# dice_app_2
+# dice_app
 
 A new Flutter project.
 
